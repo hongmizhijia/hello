@@ -8,6 +8,6 @@
     ],
     
     "require": {
-        "phpdocumentor/template-abc": "dev-master"
+        "hongmizhijia/installer": "dev-master"
     }
 }
