@@ -1,0 +1,12 @@
+{
+  "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/hongmizhijia/b.git"
+        }
+    ],
+    
+    "require": {
+        "phpdocumentor/template-abc": "dev-master"
+    }
+}
