@@ -3,7 +3,7 @@
   "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/hongmizhijia/b.git"
+            "url": "https://github.com/hongmizhijia/installer.git"
         }
     ],
     
