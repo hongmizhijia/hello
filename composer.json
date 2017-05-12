@@ -1,3 +1,7 @@
 {
-"name": "hongmizhijia/hello"
+"name": "hongmizhijia/hello",
+"require": {
+        "hongmizhijia/a": "2.0"
+    }
+
 }
