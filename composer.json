@@ -1,14 +1,7 @@
 {
 "type":"hongmizhijia",
 "name": "hongmizhijia/hello",
-  "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/hongmizhijia/installer.git"
-        }
-    ],
-    
-    "require": {
-        "hongmizhijia/installer": "dev-master"
-    }
+"require": {
+"monolog/monolog": "1.0.2"
+}
 }
