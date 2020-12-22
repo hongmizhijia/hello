@@ -2,6 +2,8 @@
 "type":"hongmizhijia",
 "name": "hongmizhijia/hello",
 "require": {
-"monolog/monolog": "1.0.2"
+"monolog/monolog": "1.0.2",
+          "hongmizhijia/installer":"*"
+
 }
 }
